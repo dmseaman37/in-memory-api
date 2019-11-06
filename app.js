@@ -19,6 +19,11 @@ const db = {
       id: 2,
       title: 'Post 2',
       body: 'something else here...'
+    },
+    {
+      id: 3,
+      title: 'Post 3',
+      body: 'something else here...'
     }
   ]
 };
